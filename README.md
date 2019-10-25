@@ -1,4 +1,4 @@
-SpellCheck Tool by Andrea Silvestro Ortino
+# SpellCheck Tool by Andrea Silvestro Ortino
 
 Developer Command Prompt for VS2015 was used for compiling and running the tool. You can compile it by type "cl spell.c" (without the " ") and a file.exe will be created. The are several way to run the programs. The default mode is done by typing "spell.exe" and it will enquiry the text written in the command line.
 However, it accept also the following command line arguments:
